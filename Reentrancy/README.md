@@ -10,7 +10,7 @@ This kind of Attack can accure when an Vulnerable Contract is sending Ether to a
 
 ## Preventive Techniques:
 
-All logic that changes state variables should happen before the call.
+All logic that changes state variables should happen before the call. \
 A Mutex can also be used to lock the function before making the call for example OpenZeppelins ReentranceGuard.sol
 
 ## Code
