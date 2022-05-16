@@ -2,7 +2,9 @@
 
 ## _Work In Progress_
 
-### This Repository contains Solidity Smart Contract Vulnerabilities that I learned.
+## What is this Repository about?
+
+This Repository contains Solidity Smart Contract Vulnerabilities that I learned. I will be publishing the notes that I took while studying these Vulnerabilities.
 
 ## Vulnerabilities:
 
