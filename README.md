@@ -6,10 +6,10 @@
 
 This Repository contains Solidity Smart Contract Vulnerabilities that I learned. I will be publishing the notes that I took while studying these Vulnerabilities.
 
-## Contribution
-
-If you find any bugs feel free to open an Issue I am new to these concepts and might have made a mistake. I am testing my code before pushing but sometimes bugs sneak in.
-
 ## Vulnerabilities:
 
 - [Reentrancy](Reentrancy)
+
+## Contribution
+
+If you find any bugs feel free to open an Issue I am new to these concepts and might have made a mistake. I am testing my code before pushing but sometimes bugs sneak in.
